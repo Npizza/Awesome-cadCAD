@@ -16,3 +16,8 @@ This a space for cadCAD resorses.
 - [A Token Engineering Process ](https://syoung.org/2019/10/18/a-token-engineering-process/)
 
 - [Markus Koch - cadCAD: complex adaptive dynamics Computer-Aided Design](https://www.youtube.com/watch?v=hLAqV8qTNOE&list=PLCLLC0naVOM_PfS8c9TiyyKw94Hmlfi1s&index=2) Talks about Uniswap impimintations on cadCAD
+
+
+## Some Theory
+
+ - [Fractal Ownership, Part 1: Introducing Value-Based Ownership](https://medium.com/@andrews.colinj/a-theory-of-fractal-ownership-part-1-introducing-value-based-ownership-54e7edc58953)
